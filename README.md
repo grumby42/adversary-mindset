@@ -2,8 +2,8 @@
 
 A curated, source-cited learning path for understanding how threat actors look at organizations: their motivations, psychology, target selection and methodology. It aims to get as close to the real attacker's head as possible without crossing the line.
 
-> **Build:** `ADVM-20261025-1550Z` · **Stamped (UTC):** 2026-10-25T15:50Z
-> **Maintainer:** Rusty Gransbury ([grumbylearns.io](https://grumbylearns.io))
+> **Build:** `ADVM-20261026-1814Z` · **Stamped (UTC):** 2026-10-26T18:14Z
+> **Maintainer:** Ted Gransbury · [LinkedIn](https://www.linkedin.com/in/tgransbury) · [grumbylearns.io](https://grumbylearns.io)
 > Every entry links to its source. Nothing here is guessed. Dates and prices change, so confirm with the organizer before you register.
 
 ---
@@ -103,4 +103,5 @@ Analyses of leaked internal chats are the highest-fidelity window into how real 
 
 | Build | Date (UTC) | Change |
 |---|---|---|
+| `ADVM-20261026-1814Z` | 2026-10-26 18:14Z | Maintainer name corrected to Ted Gransbury; LinkedIn link added. |
 | `ADVM-20261025-1550Z` | 2026-10-25 15:50Z | Initial publish. Merges the Oct 22 first pass with the Oct 25 refresh (SRG and Gentlemen leaks, The Com, the HFC academic track, A-ISAC/IATA events, Anticasts). |
